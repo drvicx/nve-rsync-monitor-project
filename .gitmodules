@@ -1,0 +1,12 @@
+[submodule "nve-rsync-host-monitor"]
+	path = nve-rsync-host-monitor
+	url = https://github.com/drvicx/nve-rsync-host-monitor.git
+	branch = main
+[submodule "nve-rsync-host-source"]
+	path = nve-rsync-host-source
+	url = https://github.com/drvicx/nve-rsync-host-source.git
+	branch = main
+[submodule "nve-rsync-host-target"]
+	path = nve-rsync-host-target
+	url = https://github.com/drvicx/nve-rsync-host-target.git
+	branch = main
